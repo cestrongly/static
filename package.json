@@ -1,0 +1,14 @@
+{
+  "name": "@cest/static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "author": "cest",
+  "license": "ISC",
+  "dependencies": {
+    "@cest/static": "^1.0.0"
+  }
+}
